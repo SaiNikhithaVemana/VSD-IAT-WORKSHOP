@@ -1,1 +1,2 @@
-
+In the CTS stage, I implemented the clock network, which distributes the clock signal to all sequential elements in the design. I inserted buffer cells to balance clock paths in order to reduce skew and hence control clock delay. 
+This phase ensures that each flip-flop receives the clock edge at almost the same instant of time. After CTS, I checked the clock tree reports for the verification of skew, insertion delay, and overall clock quality before proceeding to routing.
