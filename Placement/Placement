@@ -1,1 +1,1 @@
-
+In the placement stage, all the standard cells from the synthesized netlist are placed within the defined core area of the chip. What is aimed at here is the placing of cells in positions that would reduce wire length, avoid congestion, and improve timing. During this process, some optimizations are done to ensure that cells are placed efficiently while still considering design rules. Following placement, I went through the placement layout and reports to ensure the design was ready for CTS and routing.
