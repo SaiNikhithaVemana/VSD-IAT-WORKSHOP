@@ -1,1 +1,1 @@
-
+Routing consists of the stage where all the placed standard cells are interconnected using metal layers to develop the actual wiring of the chip. The routing tool thus creates both global routes and detailed routes while taking care that all design rules are adhered to.In this process, I have checked for congestion, DRC violations, and antenna effects.Routing should be clean and complete for every net in the design. Upon completion of routing, the reports and layout were reviewed for the design to be prepared for final sign-off and GDS generation.
