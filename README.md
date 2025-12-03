@@ -10,7 +10,7 @@ Course: Digital VLSI SoC Design
 
 Tools Used: OpenLane, Yosys, OpenROAD, Magic
 
-This repository contains the physical design and verification artifacts for RISC-V core,implemented using the SkyWater 130nm(sky130) open-source process design kit(PDK) and the OpenLane automated flow.
+This repository contains the physical design and verification artifacts for RISC-V core,implemented using the SkyWater 130nm(sky130) open-source process design kit(PDK) and the OpenLane automated flow.During this project, I've implemented the complete ASIC flow
 
 1.Synthesis 
 
