@@ -1,1 +1,2 @@
-
+Floorplanning is the stage at which the general layout of the chip is defined. During this process, I had to create the die area of the chip and the core area, place the I/O pins, and do the floor planning of the power distribution network.
+I also added physical cells to make sure the design has proper power connections and well structure. This step creates the physical foundation of the chip and prepares it for the next stages like placement, CTS, and routing.
